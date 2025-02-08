@@ -17,6 +17,6 @@ A customizable alert component built with **React, TypeScript, and SCSS**. It su
 ## 🚀 Installation
 ```bash
 git clone https://github.com/KhattabTech/ReactTS-Alert.git
-cd react-alert-component
+cd ReactTS-Alert
 npm install
 npm run dev
